@@ -70,7 +70,7 @@ Fuentes:
 
 
 
-##THTTPD
+## THTTPD
 
 THTTPD (tiny/turbo/throttling HTTP server) es un servidor web de código libre disponible para la mayoría de las variantes de Unix. Se caracteriza por ser simple, pequeño, portátil, rápido, y seguro, ya que utiliza los requerimientos mínimos de un servidor HTTP. Esto lo hace ideal para servir grandes volúmenes de información estática.
 
