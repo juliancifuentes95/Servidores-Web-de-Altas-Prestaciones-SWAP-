@@ -33,7 +33,7 @@ Fuentes:
 
 
 
-##NGINX
+## NGINX
 
 NGINX es un servidor web HTTP de código abierto que también incluye servicios de correo electrónico con acceso al Internet Message Protocol (IMAP) y al servidor Post Office Protocol (POP). Además, NGINX está listo para ser utilizado como un proxy inverso. En este modo, NGINX se utiliza para equilibrar la carga entre los servidores back-end, o para proporcionar almacenamiento en caché para un servidor back-end lento.
 
@@ -106,7 +106,7 @@ Fuentes:
 
 
 
-##CHEROKEE
+## CHEROKEE
 
 Cherokee es un servidor web multiplataforma. Su objetivo es ser rápido y completamente funcional, sin dejar de ser liviano comparado con otros servidores web. Está escrito completamente en C. Puede usarse como un sistema embebido y soporta complementos para aumentar sus funcionalidades. Es software libre, disponible bajo la Licencia Pública General de GNU.
 
@@ -132,7 +132,7 @@ Fuentes:
 
 
 
-##NODEJS
+## NODEJS
 
 Concebido como un entorno de ejecución de JavaScript orientado a eventos asíncronos, Node está diseñado para construir aplicaciones en red escalables.
 
