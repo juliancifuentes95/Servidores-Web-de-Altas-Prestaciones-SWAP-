@@ -1,5 +1,5 @@
 # Ejercicio 3 Tema 6 SWAP
-## Buscar información acerca de los tipos de ataques más comunes en servidores web (p.ej. secuestros de sesión). Detallar en qué consisten, y cómo se pueden evitar. 
+## Buscar información acerca de los tipos de ataques más comunes en servidores web (p.ej. secuestros de sesión). Detallar en qué consisten, y cómo se pueden evitar. 
 
 Los principales ataques más comunes en servidores web son:
 
@@ -26,6 +26,6 @@ Estos ataques básicamente intentan “romper” todas las combinaciones posible
 
 
 Fuentes:
-[1] [Ingeniería de Sistemas de Información (ISI) - UGR] (http://elvex.ugr.es/decsai/information-systems/slides/70%20Security.pdf) 
+[1] [Ingeniería de Sistemas de Información (ISI) - UGR](http://elvex.ugr.es/decsai/information-systems/slides/70%20Security.pdf) 
 [2] [Blog Host Dime](http://blog.hostdime.com.co/tipos-de-ataques-mas-comunes-a-sitios-web-y-servidores/)
 
