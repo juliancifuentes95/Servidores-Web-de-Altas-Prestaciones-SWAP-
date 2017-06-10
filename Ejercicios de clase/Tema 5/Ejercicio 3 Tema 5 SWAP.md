@@ -1,5 +1,5 @@
 # Ejercicio 3 Tema 5 SWAP
-## Buscar información sobre características, disponibilidad para diversos SO, etc de herramientas para monitorizar las prestaciones de un servidor. Para empezar, podemos comenzar utilizando las clásicas de Linux: top, vmstat, netstat. 
+## Buscar información sobre características, disponibilidad para diversos SO, etc de herramientas para monitorizar las prestaciones de un servidor. Para empezar, podemos comenzar utilizando las clásicas de Linux: top, vmstat, netstat. 
 
 La orden top se encarga de mostrar los procesos en Linux, o en este caso, en MacOS.
 
@@ -19,7 +19,7 @@ Otras posibles herramientas son:
 
 A continuación se muestra la ejecución de   ps en la terminal de MacOS:
 
-![imagenps] (https://github.com/juliancifuentes95/Servidores-Web-de-Altas-Prestaciones-SWAP-/blob/master/Ejercicios%20de%20clase/Tema%205/Imágenes/ps.png)
+![imagenps](https://github.com/juliancifuentes95/Servidores-Web-de-Altas-Prestaciones-SWAP-/blob/master/Ejercicios%20de%20clase/Tema%205/Imágenes/ps.png)
 
 
 
