@@ -3,7 +3,7 @@ Edición del fichero de configuración nginx:
 
 ![Imagen](https://github.com/juliancifuentes95/Servidores-Web-de-Altas-Prestaciones-SWAP-/blob/master/Prácticas/Práctica%203/Imágenes/Configuración%20nginx.png)
 
-El balanceador de carga va seleccionando entre realizar la petición a la máquina 1 (con el fichero editado y la palabra **"MAQUINA1"** al final del head, y la máquina 2, con la palabra **"MAQUINA2"**.
+El balanceador de carga va seleccionando entre realizar la petición a la máquina 1 con el fichero editado y la palabra **"MAQUINA1"** al final del head, y la máquina 2, con la palabra **"MAQUINA2"**.
 
 ![imagen](https://github.com/juliancifuentes95/Servidores-Web-de-Altas-Prestaciones-SWAP-/blob/master/Prácticas/Práctica%203/Imágenes/Balanceador%20de%20carga.png)
 
